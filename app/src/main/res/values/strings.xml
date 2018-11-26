@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicMeme</string>
+    <string name="linear_main">li_main</string>
+    <string name="linear_submain">li_main</string>
+    <string name="imgv_sweet_smile">imgv_sweet_smile</string>
+    <string name="imgv_devil_smile">imgv_devil_smile</string>
+    <string name="imgv_lol">imgv_lol</string>
+
+</resources>
